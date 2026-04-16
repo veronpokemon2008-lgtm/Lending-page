@@ -1,2 +1,3 @@
 # Lending-page
 Development of a landing page in Webflow for an author’s online course on Reiki and natural healing. The project was completed for a client. As part of the work, the page structure was created, informational sections were designed, and the course program, offers, and calls to action were integrated based on the content provided by the client. The main goal was to create a visually harmonious, clear, and conversion-focused landing page.
+URL: https://veronikas-marvelous-site-0cfe77.webflow.io/
